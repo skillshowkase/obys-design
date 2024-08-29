@@ -360,8 +360,9 @@ body {
 
 .image-div:nth-child(7) {
   margin-top: -10vw;
+  margin-left: 5vw;
   height: 32vw;
-  width: 24vw;
+  width: 22vw;
 }
 
 .image-div img {
